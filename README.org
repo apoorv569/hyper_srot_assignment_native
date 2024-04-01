@@ -1,0 +1,7 @@
+Start the development server
+
+#+begin_src shell
+  npm start
+#+end_src
+
+Then go the browser and visit =localhost:8081=
